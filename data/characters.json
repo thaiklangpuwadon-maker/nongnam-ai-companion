@@ -1,0 +1,204 @@
+{
+  "female": {
+    "avatar": "assets/avatars/female/default.jpg",
+    "outfits": [
+      {
+        "id": "level01_student",
+        "name": "ชุดสุภาพเริ่มต้น",
+        "desc": "เรียบร้อย อบอุ่น",
+        "price": 0,
+        "locked": false,
+        "image": "assets/outfits/female/level01_student.jpg"
+      },
+      {
+        "id": "level02_student",
+        "name": "ชุดนักศึกษา",
+        "desc": "สุภาพ น่ารัก",
+        "price": 200,
+        "locked": true,
+        "image": "assets/outfits/female/level02_student.jpg"
+      },
+      {
+        "id": "level03_casual",
+        "name": "ชุดลำลอง",
+        "desc": "สบาย ๆ อบอุ่น",
+        "price": 400,
+        "locked": true,
+        "image": "assets/outfits/female/level03_casual.jpg"
+      },
+      {
+        "id": "level04_pink",
+        "name": "เดรสลำลอง",
+        "desc": "ดูดี น่ารัก",
+        "price": 600,
+        "locked": true,
+        "image": "assets/outfits/female/level04_pink.jpg"
+      },
+      {
+        "id": "level05_soft",
+        "name": "เดรสเรียบหรู",
+        "desc": "สวย สุภาพ",
+        "price": 800,
+        "locked": true,
+        "image": "assets/outfits/female/level05_soft.jpg"
+      },
+      {
+        "id": "level06_sleep",
+        "name": "ชุดนอนน่ารัก",
+        "desc": "อบอุ่น ผ่อนคลาย",
+        "price": 1000,
+        "locked": true,
+        "image": "assets/outfits/female/level06_sleep.jpg"
+      },
+      {
+        "id": "level07_black",
+        "name": "ชุดพรีเมียม",
+        "desc": "มั่นใจ",
+        "price": 1200,
+        "locked": true,
+        "image": "assets/outfits/female/level07_black.jpg"
+      },
+      {
+        "id": "level08_sheer",
+        "name": "ชุดพิเศษ",
+        "desc": "บางเบา",
+        "price": 1400,
+        "locked": true,
+        "image": "assets/outfits/female/level08_sheer.jpg"
+      },
+      {
+        "id": "level09_swim1",
+        "name": "วันพีซ",
+        "desc": "สไตล์ทะเล",
+        "price": 1600,
+        "locked": true,
+        "image": "assets/outfits/female/level09_swim1.jpg"
+      },
+      {
+        "id": "level10_swim2",
+        "name": "บิกินี่ขาว",
+        "desc": "สดใส",
+        "price": 1800,
+        "locked": true,
+        "image": "assets/outfits/female/level10_swim2.jpg"
+      },
+      {
+        "id": "level11_swim3",
+        "name": "บิกินี่ดำ",
+        "desc": "พรีเมียม",
+        "price": 2000,
+        "locked": true,
+        "image": "assets/outfits/female/level11_swim3.jpg"
+      },
+      {
+        "id": "level12_swim4",
+        "name": "บิกินี่แดง",
+        "desc": "ลิมิเต็ด",
+        "price": 2500,
+        "locked": true,
+        "image": "assets/outfits/female/level12_swim4.jpg"
+      }
+    ]
+  },
+  "male": {
+    "avatar": "assets/avatars/male/default.jpg",
+    "outfits": [
+      {
+        "id": "level01_student",
+        "name": "ชุดสุภาพเริ่มต้น",
+        "desc": "เริ่มต้นใหม่ไปด้วยกัน",
+        "price": 0,
+        "locked": false,
+        "image": "assets/outfits/male/level01_student.jpg"
+      },
+      {
+        "id": "level02_blue",
+        "name": "เชิ้ตฟ้า",
+        "desc": "สุภาพ สดใส",
+        "price": 200,
+        "locked": true,
+        "image": "assets/outfits/male/level02_blue.jpg"
+      },
+      {
+        "id": "level03_beige",
+        "name": "สเวตเตอร์อบอุ่น",
+        "desc": "นุ่มนวล",
+        "price": 400,
+        "locked": true,
+        "image": "assets/outfits/male/level03_beige.jpg"
+      },
+      {
+        "id": "level04_black",
+        "name": "เชิ้ตดำ",
+        "desc": "มั่นใจ",
+        "price": 600,
+        "locked": true,
+        "image": "assets/outfits/male/level04_black.jpg"
+      },
+      {
+        "id": "level05_suit",
+        "name": "สูทสุภาพ",
+        "desc": "มืออาชีพ",
+        "price": 800,
+        "locked": true,
+        "image": "assets/outfits/male/level05_suit.jpg"
+      },
+      {
+        "id": "level06_jacket",
+        "name": "แจ็กเก็ตเบจ",
+        "desc": "อบอุ่น",
+        "price": 1000,
+        "locked": true,
+        "image": "assets/outfits/male/level06_jacket.jpg"
+      },
+      {
+        "id": "level07_black2",
+        "name": "เชิ้ตพรีเมียม",
+        "desc": "ดูดี",
+        "price": 1200,
+        "locked": true,
+        "image": "assets/outfits/male/level07_black2.jpg"
+      },
+      {
+        "id": "level08_coat",
+        "name": "โค้ทเบจ",
+        "desc": "เรียบร้อย",
+        "price": 1400,
+        "locked": true,
+        "image": "assets/outfits/male/level08_coat.jpg"
+      },
+      {
+        "id": "level09_dark",
+        "name": "สูทดำ",
+        "desc": "พรีเมียม",
+        "price": 1600,
+        "locked": true,
+        "image": "assets/outfits/male/level09_dark.jpg"
+      },
+      {
+        "id": "level10_beach",
+        "name": "เชิ้ตทะเล",
+        "desc": "วันหยุด",
+        "price": 1800,
+        "locked": true,
+        "image": "assets/outfits/male/level10_beach.jpg"
+      },
+      {
+        "id": "level11_swim",
+        "name": "สไตล์ทะเล",
+        "desc": "ลิมิเต็ด",
+        "price": 2000,
+        "locked": true,
+        "image": "assets/outfits/male/level11_swim.jpg"
+      },
+      {
+        "id": "level12_swim2",
+        "name": "สปอร์ตทะเล",
+        "desc": "ลิมิเต็ด",
+        "price": 2500,
+        "locked": true,
+        "image": "assets/outfits/male/level12_swim2.jpg"
+      }
+    ]
+  }
+}
